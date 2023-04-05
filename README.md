@@ -1,3 +1,3 @@
 # python-challenge
-Module-3_Challenge - PyBank and PyPoll
-This repository is for pyhton chanenge homework
+Module-3_Challenge (PyBank and PyPoll)   -----
+This repository is for pyhton challenge homework
