@@ -58,27 +58,6 @@ with open(election_csv, newline = "")as csvfile:
         
         
         
-        #totalcandidate.append(candidate)
-        
-
-    #     if candidate not in candidate_list:
-    #         candidate_list.append(candidate)
-    # can_name = str(candidate_list)
-   
-
-    # calculate number of votes per candidate won and percentage of votes per candidate by creating variables: C_list(Candidate list) and totalvote
-    # totalvote = 0  
-    # C_list = {}  
-    # for r in csvreader:
-    #     totalvote += 1
-    #     C_name = r[2]
-    #     if C_name in C_list:
-    #         C_list[C_name] += 1
-    #     else:
-    #         C_list[C_name] = 1
-
-    # 
-   # for candidate, votes in C_list.items():
-
+       
 
 
